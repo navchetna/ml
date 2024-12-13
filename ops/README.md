@@ -3,8 +3,13 @@
 ## Install Requirements
 
 ```bash
-git clone https://github.com/theBeginner86/mlops-learnings.git
+git clone https://github.com/navchetna/ml.git
 pip install -r requirements.txt
+```
+
+```
+cd ops;
+mlflow ui
 ```
 
 ## Level 0 - ML Flow Integration with Dataset
