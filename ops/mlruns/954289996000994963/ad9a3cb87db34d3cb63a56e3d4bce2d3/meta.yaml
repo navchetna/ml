@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/954289996000994963/ad9a3cb87db34d3cb63a56e3d4bce2d3/artifacts
+end_time: 1734071364562
+entry_point_name: ''
+experiment_id: '954289996000994963'
+lifecycle_stage: active
+run_id: ad9a3cb87db34d3cb63a56e3d4bce2d3
+run_name: inference
+run_uuid: ad9a3cb87db34d3cb63a56e3d4bce2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734071362221
+status: 3
+tags: []
+user_id: thebeginner86

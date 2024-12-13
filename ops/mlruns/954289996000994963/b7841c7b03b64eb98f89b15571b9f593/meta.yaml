@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/954289996000994963/b7841c7b03b64eb98f89b15571b9f593/artifacts
+end_time: 1734070526682
+entry_point_name: ''
+experiment_id: '954289996000994963'
+lifecycle_stage: active
+run_id: b7841c7b03b64eb98f89b15571b9f593
+run_name: hyperparameter_tune
+run_uuid: b7841c7b03b64eb98f89b15571b9f593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734070524223
+status: 3
+tags: []
+user_id: thebeginner86

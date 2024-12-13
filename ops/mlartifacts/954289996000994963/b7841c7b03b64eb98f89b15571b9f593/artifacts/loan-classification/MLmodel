@@ -1,0 +1,40 @@
+artifact_path: loan-classification
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.12
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 2.1.3
+metadata:
+  model_data_version: 1
+mlflow_version: 2.19.0
+model_size_bytes: 13190
+model_uuid: 44457160c10f4aa28fcd16a83b84437e
+run_id: b7841c7b03b64eb98f89b15571b9f593
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "loan_id", "required": true}, {"type": "long",
+    "name": "no_of_dependents", "required": true}, {"type": "long", "name": "education",
+    "required": true}, {"type": "long", "name": "self_employed", "required": true},
+    {"type": "long", "name": "income_annum", "required": true}, {"type": "long", "name":
+    "loan_amount", "required": true}, {"type": "long", "name": "loan_term", "required":
+    true}, {"type": "long", "name": "cibil_score", "required": true}, {"type": "long",
+    "name": "residential_assets_value", "required": true}, {"type": "long", "name":
+    "commercial_assets_value", "required": true}, {"type": "long", "name": "luxury_assets_value",
+    "required": true}, {"type": "long", "name": "bank_asset_value", "required": true},
+    {"type": "long", "name": "total_asset", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2024-12-13 06:15:24.561029'
