@@ -31,3 +31,8 @@ Open level_3.py and run the code. It will create a dataset and demonstrate model
 ## Level 4 - ML Flow Integration with Dataset Versioning
 
 Open level_4.py and run the code. It will create a dataset and demonstrate dataset versioning
+
+
+## Level 5 - ML Flow Integration with Deployment and Inference
+
+Open level_4.py and run the code. It will create a dataset, model, hosting/deployment and inference.
