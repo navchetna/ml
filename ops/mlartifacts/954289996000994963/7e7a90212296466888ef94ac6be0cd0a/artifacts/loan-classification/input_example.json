@@ -1,1 +1,0 @@
-{"columns": ["loan_id", "no_of_dependents", "education", "self_employed", "income_annum", "loan_amount", "loan_term", "cibil_score", "residential_assets_value", "commercial_assets_value", "luxury_assets_value", "bank_asset_value", "total_asset"], "data": [[1012, 1, 0, 0, 1400000, 3300000, 8, 306, 3200000, 800000, 2700000, 800000, 6700000]]}
