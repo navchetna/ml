@@ -24,7 +24,7 @@ Open level1.ipynb and run the code. It will create a dataset and demonstrate dat
 
 Open level2.ipynb and run the code. It will create a dataset, model, hosting/deployment and inference.
 
-## Level 3 - ML Flow Integeration and Performance Evalution
+## Level 3 - ML Flow Integeration and Accuracy Evalution
 
 Open level3.ipynb and run the code. It will create a dataset, model, and evaluate the result based of actual/predicted values.
 
