@@ -3,3 +3,5 @@
 **mlartifacts
 **.dvc
 **.dvcignore
+.ipynb_checkpoints
+venv
